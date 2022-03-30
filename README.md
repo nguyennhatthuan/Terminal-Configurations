@@ -1,3 +1,4 @@
-# Windows-Terminal
-Settings for Windows Terminal
-This repository aim to store settings for Windows Terminal
+# ~~Windows-Terminal~~
+# Configurations
+Settings for Windows Terminal, Powershell, Zsh,...
+This repository aim to store settings for Windows Terminal, Powershell, Zsh,...
