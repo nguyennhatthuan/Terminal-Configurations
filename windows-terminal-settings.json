@@ -33,7 +33,7 @@
     "defaults": {
       "colorScheme": "Misterioso",
       "font": {
-        "face": "Cascadia Code PL"
+        "face": "CaskaydiaCove Nerd Font"
       },
       "opacity": 70,
       "useAcrylic": true

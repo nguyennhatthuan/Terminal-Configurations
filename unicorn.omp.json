@@ -96,9 +96,9 @@
           "type": "root"
         },
         {
-          "foreground": "#f1184c",
+          "foreground": "#ffffff",
           "style": "plain",
-          "template": "\uf0e7 ",
+          "template": "<#69FF94>\u276f</>",
           "type": "text"
         }
       ],
