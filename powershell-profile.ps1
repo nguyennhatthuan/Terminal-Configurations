@@ -1,10 +1,6 @@
-Import-Module posh-git
-Import-Module oh-my-posh
+oh-my-posh init pwsh --config D:\Programming\terminal-theme\unicorn.omp.json | Invoke-Expression
 Import-Module -Name Terminal-Icons
-# Import-Module PSReadLine
-# Set-PoshPrompt -Theme ys
-Set-PoshPrompt -Theme ~/.terminal-custom-theme.json
-# Set-PSReadLineOption -PredictionSource History
+Import-Module -Name posh-git
 
 Set-Alias -Name k kubectl
 Set-Alias -Name d docker
